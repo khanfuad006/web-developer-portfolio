@@ -173,3 +173,49 @@ line-height: 28px;
 .resume-colum{
     
 }
+.resume-container{
+    display: flex;
+    gap: 71px;
+}
+.resume-container hr{
+    margin: 30px 0;
+}
+.download-cv{
+    text-align: center;
+    margin-top: 50px;
+}
+footer{
+    display: flex;
+    gap: 117px;
+    background-color: #FFF8F3;
+    padding: 130px 200px;
+}
+.lc{
+    color: #181818;
+text-align: center;
+font-size: 35px;
+font-weight: 700;
+}
+.pf{
+    color: #474747;
+font-size: 16px;
+font-weight: 400;
+line-height: 28px;
+}
+.footer-colum{
+    width: 50%;
+}
+.contact input[type="text"], input[type="email"], textarea{
+    display: block;
+    margin-bottom: 24px;
+    padding: 18px 35px;
+    color: #757575;
+    border-radius: 5px;
+    background: #FFF;
+    border: 0;
+    width: 100%;
+
+}
+.social-links{
+    margin-right: 24px;
+}
